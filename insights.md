@@ -20,4 +20,4 @@
 
 ## Juizes
 
-Leonardo Gaciba parece ser um juiz que aparece muito em todas as rodadas, maioria das partidas dele tem algumas expulsoes.
+Leonardo Gaciba parece ser um juiz que aparece muito em todas as rodadas, algumas das partidas dele tem algumas expulsoes.
