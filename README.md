@@ -30,7 +30,8 @@ expulsao_visitante
 
 Quantidade de jogadores expulsos do time visitante em cada jogo. Assim como a coluna anterior, ajuda em análises comportamentais e de arbitragem.
 
-Essas colunas foram adicionadas manualmente e representam um esforço de enriquecimento da base de dados, tornando as futuras análises mais completas e realistas. O processo envolveu coleta, padronização e integração das informações no arquivo CSV principal do projeto.
 dia_semana_jogo
 
 Indica o dia da semana em que a partida ocorreu (domingo, quarta, etc.). Essa informação foi adicionada para permitir análises temporais, como o impacto do dia da semana no público ou na performance dos times.
+
+Essas colunas foram adicionadas manualmente e representam um esforço de enriquecimento da base de dados, tornando as futuras análises mais completas e realistas. O processo envolveu coleta, padronização e integração das informações no arquivo CSV principal do projeto.
