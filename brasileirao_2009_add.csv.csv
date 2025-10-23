@@ -1,0 +1,381 @@
+ID,rodada,data,hora,mandante,visitante,formacao_mandante,formacao_visitante,tecnico_mandante,tecnico_visitante,vencedor,arena,mandante_Placar,visitante_Placar,mandante_Estado,visitante_Estado,publico_jogo,juiz_partida,expulsao_mandate,expulsao_visitante,dia_semana_jogo
+2707,1,2009-05-09,18:30,Sport,Barueri,,,,,-,Ilha do Retiro,1,1,PE,SP,16.019,Francisco de Assis Almeida Filho,0,0,Sábado
+2708,1,2009-05-09,18:30,Palmeiras,Coritiba,,,,,Palmeiras,Palestra Itália,2,1,SP,PR,19.105,Arilson Bispo da Anunciação,0,0,Sábado
+2709,1,2009-05-09,18:30,Avai,Atletico-MG,,,,,-,  Ressacada,2,2,SC,MG,8.344,Rodrigo Nunes de Sá,0,0,Sábado
+2710,1,2009-05-10,16:00,Corinthians,Internacional,,,,,Internacional, Pacaembu,0,1,SP,RS,14.458,Evandro Rogério Roman,0,0,Domingo
+2711,1,2009-05-10,16:00,Fluminense,Sao Paulo,,,,,Fluminense, Maracanã,1,0,RJ,SP,14.574,Sandro Meira Ricci,0,0,Domingo
+2712,1,2009-05-10,16:00,Athletico-PR,Vitoria,,,,,Vitoria, Arena da Baixada,0,2,PR,BA,12.906,Célio Amorim,0,0,Domingo
+2713,1,2009-05-10,16:00,Cruzeiro,Flamengo,,,,,Cruzeiro, Mineirão,2,0,MG,RJ,24.564,Paulo César Olivera,1,0,Domingo
+2714,1,2009-05-10,18:30,Gremio,Santos,,,,,-, Olímpico,1,1,RS,SP,24.309,Alicio Pena Júnior,0,0,Domingo
+2715,1,2009-05-10,18:30,Santo Andre,Botafogo-RJ,,,,,-,Bruno José Daniel,1,1,SP,RJ,1.939,Wilson Souza de Mendonça,1,0,Domingo
+2716,1,2009-05-10,18:30,Goias,Nautico,,,,,-, Serra Dourada,3,3,GO,PE,2.517,Jailson Macedo Freitas,0,0,Domingo
+2717,2,2009-05-16,18:30,Coritiba,Santo Andre,,,,,Santo Andre, Couto Pereira,2,4,PR,SP,8.423,Antonio Hora Filho,0,1,Sábado
+2718,2,2009-05-16,18:30,Atletico-MG,Gremio,,,,,Atletico-MG, Mineirão,2,1,MG,RS,17.263,Wilson Luiz Seneme,0,1,Sábado
+2719,2,2009-05-16,18:30,Flamengo,Avai,,,,,-, Maracanã,0,0,RJ,SC,18.351,Francisco Carlos Nascimento,0,0,Sábado
+2720,2,2009-05-17,16:00,Santos,Goias,,,,,-, Vila Belmiro,3,3,SP,GO,9.511,Ricardo Marques Ribeiro,0,0,Domingo
+2721,2,2009-05-17,16:00,Sao Paulo,Athletico-PR,,,,,-, Morumbi,2,2,SP,PR,11.554,Wilton Pereira Sampaio,0,0,Domingo
+2722,2,2009-05-17,16:00,Barueri,Fluminense,,,,,-,Arena Barueri,0,0,SP,RJ,2.555,André Luiz Freitas Castro,0,0,Domingo
+2723,2,2009-05-17,16:00,Internacional,Palmeiras,,,,,Internacional, Beira Rio,2,0,RS,SP,28.735,Djalma José Beltrami,0,1,Domingo
+2724,2,2009-05-17,18:30,Botafogo-RJ,Corinthians,,,,,-,Engenhão,0,0,RJ,SP,14.528,Carlos Eugenio Simon,0,0,Domingo
+2725,2,2009-05-17,18:30,Vitoria,Sport,,,,,Vitoria, Barradão,1,0,BA,PE,4.588,Charles Cavalcante Ferreira,1,0,Domingo
+2726,2,2009-05-17,18:30,Nautico,Cruzeiro,,,,,Nautico,Aflitos,2,0,PE,MG,14.127,Wagner Tardelli,0,0,Domingo
+2727,3,2009-05-23,18:30,Corinthians,Barueri,,,,,Corinthians, Pacaembu,2,1,SP,SP,10.646,Wilson Luiz Seneme,0,0,Sábado
+2728,3,2009-05-23,18:30,Cruzeiro,Vitoria,,,,,Cruzeiro, Mineirão,2,0,MG,BA,7.044,Heber Roberto Lopes,0,0,Sábado
+2729,3,2009-05-23,18:30,Goias,Internacional,,,,,Internacional, Serra Dourada,0,1,GO,RS,6.918,Wagner Tardelli,0,0,Sábado
+2730,3,2009-05-24,16:00,Palmeiras,Sao Paulo,,,,,-,Palestra Itália,0,0,SP,SP,12.000,Rodrigo Braghetto,1,1,Domingo
+2731,3,2009-05-24,16:00,Fluminense,Santos,,,,,Santos, Maracanã,1,4,RJ,SP,11.953,Leandro Vuaden,2,0,Domingo
+2732,3,2009-05-24,16:00,Athletico-PR,Nautico,,,,,Nautico, Arena da Baixada,2,3,PR,PE,14.172,Elmo Resende Cunha,0,0,Domingo
+2733,3,2009-05-24,16:00,Gremio,Botafogo-RJ,,,,,Gremio, Olímpico,2,0,RS,RJ,25.894,Sálvio Spínola Fagundes Filho,0,0,Domingo
+2734,3,2009-05-24,18:30,Sport,Atletico-MG,,,,,Atletico-MG,Ilha do Retiro,2,3,PE,MG,15.315,Péricles Pegado Cortez,0,0,Domingo
+2735,3,2009-05-24,18:30,Avai,Coritiba,,,,,-,  Ressacada,2,2,SC,PR,8.880,Marcelo de Lima Henrique,0,0,Domingo
+2736,3,2009-05-24,18:30,Santo Andre,Flamengo,,,,,Flamengo,Bruno José Daniel,1,2,SP,RJ,8.819,Arilson Bispo da Anunciação,0,0,Domingo
+2737,4,2009-05-30,18:30,Botafogo-RJ,Sport,,,,,-,Engenhão,2,2,RJ,PE,8.655,Jailson Macedo Freitas,0,1,Sábado
+2738,4,2009-05-30,18:30,Coritiba,Goias,,,,,Goias, Couto Pereira,1,3,PR,GO,8.642,Pablo dos Santos Alves,0,1,Sábado
+2739,4,2009-05-30,18:30,Atletico-MG,Santo Andre,,,,,-, Mineirão,0,0,MG,SP,23.772,Cláudio Mercante Júnior,0,1,Sábado
+2740,4,2009-05-31,16:00,Sao Paulo,Cruzeiro,,,,,Sao Paulo, Morumbi,3,0,SP,MG,51.800,Evandro Rogério Roman,0,0,Domingo
+2741,4,2009-05-31,16:00,Santos,Corinthians,,,,,Santos, Vila Belmiro,3,1,SP,SP,10.658,Leandro Vuaden,0,1,Domingo
+2742,4,2009-05-31,16:00,Flamengo,Athletico-PR,,,,,Flamengo, Maracanã,2,1,RJ,PR,68.217,Leonardo Gaciba,0,0,Domingo
+2743,4,2009-05-31,16:00,Nautico,Fluminense,,,,,-,Aflitos,1,1,PE,RJ,7.781,Wilson Luiz Seneme,1,1,Domingo
+2744,4,2009-05-31,16:00,Vitoria,Gremio,,,,,Vitoria, Barradão,1,0,BA,RS,14.528,Wagner Tardelli,0,1,Domingo
+2745,4,2009-05-31,18:30,Barueri,Palmeiras,,,,,-,Arena Barueri,2,2,SP,SP,4.960,Paulo César Oliveira,0,1,Domingo
+2746,4,2009-05-31,18:30,Internacional,Avai,,,,,Internacional, Beira Rio,2,1,RS,SC,13.023,Nielson Nogueira Dias,1,1,Domingo
+2760,6,2009-05-31,16:00,Goias,Corinthians,,,,,-, Serra Dourada,0,0,GO,SP,16.337,Wagner Tardelli,0,0,Quinta-feira
+2761,6,2009-05-31,16:00,Fluminense,Gremio,,,,,-, Maracanã,0,0,RJ,RS,16.270,José Henrique de Carvalho,0,1,Quinta-feira
+2762,6,2009-05-31,16:00,Coritiba,Flamengo,,,,,Coritiba, Couto Pereira,5,0,PR,RJ,20.592,Wilson Luiz Seneme,1,1,Sábado
+2763,6,2009-05-31,16:00,Atletico-MG,Nautico,,,,,Atletico-MG, Mineirão,3,0,MG,PE,40.822,Francisco Carlos Nascimento,1,2,Domingo
+2764,6,2009-05-31,18:30,Barueri,Avai,,,,,Barueri,Arena Barueri,3,1,SP,SC,1.288,William Souza Nery,0,1,Domingo
+2765,6,2009-05-31,18:30,Palmeiras,Cruzeiro,,,,,Palmeiras,Palestra Itália,3,1,SP,MG,11.214,Leandro Pedro Vuaden,0,0,Domingo
+2766,6,2009-05-31,18:30,Internacional,Vitoria,,,,,-, Beira Rio,0,0,RS,BA,15.409,Célio Amorim,0,1,Domingo
+2747,5,2009-06-04,21:00,Gremio,Nautico,,,,,Gremio, Olímpico,3,0,RS,PE,8.215,Péricles Pegado Cortez,1,0,Domingo
+2748,5,2009-06-04,21:00,Santo Andre,Santos,,,,,-,Bruno José Daniel,3,3,SP,SP,7.818,Luiz Flávio de Oliveira,1,0,Domingo
+2749,5,2009-06-06,21:00,Corinthians,Coritiba,,,,,Corinthians, Pacaembu,2,0,SP,PR,5.735,Djalma José Beltrami,0,1,Domingo
+2750,5,2009-06-07,16:00,Palmeiras,Vitoria,,,,,Palmeiras,Palestra Itália,2,1,SP,BA,16.118,Heber Roberto Lopes,0,0,Sábado
+2751,5,2009-06-07,16:00,Athletico-PR,Atletico-MG,,,,,Atletico-MG, Arena da Baixada,0,4,PR,MG,15.505,Rodrigo Martins Cintra,1,0,Sábado
+2752,5,2009-06-07,16:00,Sport,Flamengo,,,,,Sport,Ilha do Retiro,4,2,PE,RJ,25.602,Cléber Wellington Abade,0,0,Sábado
+2753,5,2009-06-07,16:00,Avai,Sao Paulo,,,,,-,  Ressacada,0,0,SC,SP,12.553,Leonardo Gaciba,0,0,Domingo
+2754,5,2009-06-07,18:30,Cruzeiro,Internacional,,,,,-, Mineirão,1,1,MG,RS,16.587,Antonio Hora Filho,1,1,Domingo
+2755,5,2009-06-07,18:30,Goias,Barueri,,,,,-, Serra Dourada,2,2,GO,SP,4.242,Francisco Carlos Nascimento,0,0,Domingo
+2756,5,2009-06-07,18:30,Fluminense,Botafogo-RJ,,,,,Fluminense, Maracanã,1,0,RJ,RJ,13.728,Rodrigo Nunes de Sá,0,0,Domingo
+2757,6,2009-06-13,18:30,Sao Paulo,Santo Andre,,,,,-, Morumbi,1,1,SP,SP,8.995,Guilherme Cereta de Lima,0,0,Domingo
+2758,6,2009-06-13,18:30,Sport,Athletico-PR,,,,,Athletico-PR,Ilha do Retiro,0,1,PE,PR,14.118,Ricardo Marques Ribeiro,0,0,Domingo
+2759,6,2009-06-13,18:30,Botafogo-RJ,Santos,,,,,Botafogo-RJ,Engenhão,2,0,RJ,SP,6.535,Evandro Rogério Roman,0,0,Domingo
+2767,7,2009-06-20,16:10,Athletico-PR,Palmeiras,,,,,-, Arena da Baixada,2,2,PR,SP,18.068,Alicio Pena Júnior,0,0,Sábado
+2768,7,2009-06-20,16:10,Vitoria,Botafogo-RJ,,,,,Vitoria, Barradão,4,3,BA,RJ,10.897,Francisco Carlos Nascimento,0,0,Sábado
+2769,7,2009-06-20,16:10,Santo Andre,Sport,,,,,Santo Andre,Bruno José Daniel,2,1,SP,PE,2.378,Edivaldo Elias da Silva,0,1,Sábado
+2770,7,2009-06-20,18:30,Gremio,Goias,,,,,-, Olímpico,2,2,RS,GO,14.481,Nielson Nogueira Dias,0,0,Sábado
+2771,7,2009-06-20,18:30,Avai,Fluminense,,,,,Avai,  Ressacada,3,2,SC,RJ,9.142,Paulo César Oliveira,0,1,Sábado
+2772,7,2009-06-20,18:30,Nautico,Coritiba,,,,,Coritiba,Aflitos,0,1,PE,PR,10.000,Rodrigo Nunes de Sá,0,0,Sábado
+2773,7,2009-06-21,18:30,Corinthians,Sao Paulo,,,,,Corinthians, Pacaembu,3,1,SP,SP,15.371,Marcelo de Lima Henrique,0,0,Domingo
+2774,7,2009-06-21,18:30,Santos,Atletico-MG,,,,,Atletico-MG, Vila Belmiro,2,3,SP,MG,7.214,Djalma José Beltrami,1,0,Domingo
+2775,7,2009-06-21,18:30,Cruzeiro,Barueri,,,,,Barueri, Mineirão,2,4,MG,SP,6.117,Leonardo Gaciba,1,0,Domingo
+2776,7,2009-06-21,18:30,Flamengo,Internacional,,,,,Flamengo, Maracanã,4,0,RJ,RS,15.864,José Henrique de Carvalho,0,0,Domingo
+2777,8,2009-06-27,16:10,Athletico-PR,Corinthians,,,,,Athletico-PR, Arena da Baixada,1,0,PR,SP,17.119,Cláudio Mercante,0,0,Sábado
+2778,8,2009-06-27,16:10,Barueri,Atletico-MG,,,,,Barueri,Arena Barueri,4,2,SP,MG,3.813,Péricles Pegado Cortez,0,0,Sábado
+2779,8,2009-06-27,16:10,Sao Paulo,Nautico,,,,,Sao Paulo, Morumbi,2,0,SP,PE,7.977,André Luiz de Castro,0,0,Sábado
+2780,8,2009-06-27,18:30,Cruzeiro,Avai,,,,,Cruzeiro, Mineirão,1,0,MG,SC,3.437,Jailson Macedo Freitas,0,0,Sábado
+2781,8,2009-06-27,18:30,Botafogo-RJ,Goias,,,,,Goias,Engenhão,1,4,RJ,GO,6.689,Paulo César Oliveira,0,0,Sábado
+2782,8,2009-06-28,18:30,Palmeiras,Santos,,,,,-,Palestra Itália,1,1,SP,SP,8.277,Leonardo Gaciba,0,0,Domingo
+2783,8,2009-06-28,18:30,Internacional,Coritiba,,,,,Internacional, Beira Rio,3,0,RS,PR,8.592,Wilton Pereira Sampaio,0,0,Domingo
+2784,8,2009-06-28,18:30,Vitoria,Santo Andre,,,,,Vitoria, Barradão,4,1,BA,SP,8.741,Carlos Eugenio Simon,0,0,Domingo
+2785,8,2009-06-28,18:30,Sport,Gremio,,,,,Sport,Ilha do Retiro,3,1,PE,RS,4.004,Marcelo de Lima Henrique,0,0,Domingo
+2786,8,2009-06-28,18:30,Fluminense,Flamengo,,,,,-, Maracanã,0,0,RJ,RJ,41.038,Sálvio Spínola Fagundes Filho,0,0,Domingo
+2787,9,2009-07-04,18:30,Santos,Sport,,,,,Santos, Vila Belmiro,1,0,SP,PE,7.826,Alicio Pena Júnior,0,1,Sábado
+2788,9,2009-07-04,18:30,Santo Andre,Barueri,,,,,-,Bruno José Daniel,1,1,SP,SP,1.524,Paulo César Oliveira,0,0,Sábado
+2789,9,2009-07-04,18:30,Flamengo,Vitoria,,,,,Flamengo,Engenhão,2,1,RJ,BA,25.665,Nielson Nogueira Dias,1,1,Sábado
+2790,9,2009-07-05,16:00,Coritiba,Sao Paulo,,,,,Coritiba, Couto Pereira,2,0,PR,SP,15.371,Leandro Vuaden,0,1,Domingo
+2791,9,2009-07-05,16:00,Goias,Cruzeiro,,,,,Goias, Serra Dourada,1,0,GO,MG,5.809,Wilson Souza de Mendonça,0,0,Domingo
+2792,9,2009-07-05,16:00,Atletico-MG,Botafogo-RJ,,,,,-, Mineirão,1,1,MG,RJ,48.652,Sálvio Spínola Fagundes Filho,0,0,Domingo
+2793,9,2009-07-05,16:00,Gremio,Athletico-PR,,,,,Gremio, Olímpico,4,1,RS,PR,11.454,Rodrigo Nunes de Sá,0,0,Domingo
+2794,9,2009-07-05,18:30,Avai,Palmeiras,,,,,Palmeiras,  Ressacada,0,3,SC,SP,12.091,Evandro Rogério Roman,0,0,Domingo
+2795,9,2009-07-05,18:30,Nautico,Internacional,,,,,Internacional,Aflitos,0,2,PE,RS,10.000,Marcelo de Lima Henrique,1,0,Domingo
+2796,9,2009-07-08,21:50,Corinthians,Fluminense,,,,,Corinthians, Pacaembu,4,2,SP,RJ,27.329,Heber Roberto Lopes,0,1,Quarta-feira
+2798,10,2009-07-11,16:00,Barueri,Coritiba,,,,,Barueri,Arena Barueri,3,1,SP,PR,1.114,André Luiz Castro,0,0,Sábado
+2797,10,2009-07-11,18:30,Avai,Botafogo-RJ,,,,,Botafogo-RJ,  Ressacada,1,2,SC,RJ,5.912,Wilson Luiz Seneme,0,0,Sábado
+2799,10,2009-07-11,18:30,Palmeiras,Nautico,,,,,Palmeiras,Palestra Itália,4,1,SP,PE,7.800,Wagner Tardelli,0,0,Sábado
+2800,10,2009-07-12,16:00,Cruzeiro,Atletico-MG,,,,,Atletico-MG, Mineirão,0,3,MG,MG,22.583,Paulo César Oliveira,1,0,Domingo
+2801,10,2009-07-12,16:00,Athletico-PR,Internacional,,,,,Athletico-PR, Arena da Baixada,3,2,PR,RS,16.747,Sandro Ricci,0,0,Domingo
+2802,10,2009-07-12,16:00,Gremio,Corinthians,,,,,Gremio, Olímpico,3,0,RS,SP,33.688,Francisco Carlos Nascimento,0,1,Domingo
+2803,10,2009-07-12,16:00,Sao Paulo,Flamengo,,,,,-, Morumbi,2,2,SP,RJ,21.648,Ricardo Marques Ribeiro,1,0,Domingo
+2804,10,2009-07-12,18:30,Vitoria,Santos,,,,,Vitoria, Barradão,6,2,BA,SP,17.000,Pablo dos Santos Alves,0,0,Domingo
+2805,10,2009-07-12,18:30,Sport,Goias,,,,,Sport,Ilha do Retiro,1,0,PE,GO,16.645,Leandro Vuaden,0,0,Domingo
+2806,10,2009-07-12,18:30,Fluminense,Santo Andre,,,,,Santo Andre, Maracanã,0,1,RJ,SP,4.818,Wallace Valence,0,0,Domingo
+2807,11,2009-07-15,19:30,Goias,Avai,,,,,Avai, Serra Dourada,0,2,GO,SC,3.609,Heber Roberto Lopes,0,0,Quarta-feira
+2808,11,2009-07-15,19:30,Coritiba,Gremio,,,,,Coritiba, Couto Pereira,2,1,PR,RS,16.403,Gutemberg de Paula Fonseca,0,1,Quarta-feira
+2809,11,2009-07-15,21:00,Santos,Barueri,,,,,-, Vila Belmiro,3,3,SP,SP,3.524,Guilherme Cereta de Lima,0,1,Quarta-feira
+2810,11,2009-07-15,21:00,Santo Andre,Athletico-PR,,,,,Santo Andre,Bruno José Daniel,1,0,SP,PR,1.294,Célio Amorim,0,0,Quarta-feira
+2811,11,2009-07-15,21:50,Flamengo,Palmeiras,,,,,Palmeiras, Maracanã,1,2,RJ,SP,22.861,Leandro Vuaden,0,0,Quarta-feira
+2812,11,2009-07-15,21:50,Internacional,Fluminense,,,,,Internacional, Beira Rio,4,2,RS,RJ,6.346,Evandro Roman,2,2,Quarta-feira
+2813,11,2009-07-16,21:00,Atletico-MG,Sao Paulo,,,,,Atletico-MG, Mineirão,2,0,MG,SP,54.184,Leonardo Gaciba,0,0,Quinta-feira
+2814,11,2009-07-16,21:00,Corinthians,Sport,,,,,Corinthians, Pacaembu,4,3,SP,PE,22.756,Carlos Eugenio Simon,0,1,Quinta-feira
+2815,11,2009-07-16,21:00,Nautico,Vitoria,,,,,-,Aflitos,1,1,PE,BA,13.178,Paulo César Olivera,0,1,Quinta-feira
+2817,12,2009-07-18,18:30,Fluminense,Goias,,,,,Goias, Maracanã,1,4,RJ,GO,8.327,Rodrigo Martins Cintra,0,0,Sábado
+2818,12,2009-07-18,18:30,Palmeiras,Santo Andre,,,,,Palmeiras,Palestra Itália,1,0,SP,SP,19.041,Marcelo de Lima Henrique,0,0,Sábado
+2819,12,2009-07-19,16:00,Gremio,Internacional,,,,,Gremio, Olímpico,2,1,RS,RS,36.046,Leonardo Gaciba,0,0,Domingo
+2820,12,2009-07-19,16:00,Sao Paulo,Santos,,,,,Sao Paulo, Morumbi,2,1,SP,SP,10.913,José Henrique de Carvalho,0,0,Domingo
+2821,12,2009-07-19,16:00,Athletico-PR,Coritiba,,,,,-, Arena da Baixada,0,0,PR,PR,19.266,Wilson Luiz Seneme,0,0,Domingo
+2823,12,2009-07-19,16:00,Cruzeiro,Corinthians,,,,,Corinthians, Mineirão,1,2,MG,SP,32.820,Elmo Alves Resende,1,0,Domingo
+2822,12,2009-07-19,18:30,Vitoria,Atletico-MG,,,,,-, Barradão,0,0,BA,MG,16.101,Leandro Vuaden,0,0,Domingo
+2824,12,2009-07-19,18:30,Barueri,Nautico,,,,,Barueri,Arena Barueri,4,0,SP,PE,1.866,Heber Roberto Lopes,0,1,Domingo
+2825,12,2009-07-19,18:30,Sport,Avai,,,,,Avai,Ilha do Retiro,1,3,PE,SC,11.076,Arilson Bispo da Anunciação,1,0,Domingo
+2826,12,2009-07-19,18:30,Botafogo-RJ,Flamengo,,,,,-, Maracanã,2,2,RJ,RJ,32.159,Péricles Pegado Cortez,1,0,Domingo
+2827,13,2009-07-22,19:30,Flamengo,Barueri,,,,,-, Maracanã,1,1,RJ,SP,27.952,Cláudio Mercante,0,0,Quarta-feira
+2828,13,2009-07-22,19:30,Santo Andre,Cruzeiro,,,,,Cruzeiro,Bruno José Daniel,0,2,SP,MG,1.709,Carlos Eugenio Simon,0,0,Quarta-feira
+2829,13,2009-07-22,19:30,Avai,Gremio,,,,,Avai,  Ressacada,1,0,SC,RS,12.204,Felipe Gomes da Silva,1,0,Quarta-feira
+2830,13,2009-07-22,21:00,Santos,Athletico-PR,,,,,Santos, Vila Belmiro,1,0,SP,PR,7.375,Wagner Tardelli,0,0,Quarta-feira
+2831,13,2009-07-22,21:50,Goias,Palmeiras,,,,,Goias, Serra Dourada,2,1,GO,SP,19.707,Evandro Roman,0,0,Quarta-feira
+2832,13,2009-07-22,21:50,Internacional,Sao Paulo,,,,,-, Beira Rio,2,2,RS,SP,17.759,Rodrigo Nunes de Sá,0,0,Quarta-feira
+2833,13,2009-07-22,21:50,Nautico,Botafogo-RJ,,,,,-,Aflitos,2,2,PE,RJ,12.721,José Henrique de Carvalho,0,1,Quarta-feira
+2834,13,2009-07-23,21:00,Atletico-MG,Fluminense,,,,,Atletico-MG, Mineirão,2,1,MG,RJ,55.769,Wilson Luiz Seneme,0,0,Quinta-feira
+2835,13,2009-07-23,21:00,Coritiba,Sport,,,,,-, Couto Pereira,1,1,PR,PE,6.781,Cléber Wellington Abade,0,0,Quinta-feira
+2836,13,2009-07-23,21:00,Corinthians,Vitoria,,,,,Corinthians, Pacaembu,2,1,SP,BA,23.600,Nielson Nogueira Dias,0,0,Quinta-feira
+2837,14,2009-07-25,18:30,Gremio,Santo Andre,,,,,Gremio, Olímpico,3,2,RS,SP,11.180,Alicio Pena Júnior,0,1,Sábado
+2838,14,2009-07-25,18:30,Athletico-PR,Avai,,,,,Avai, Arena da Baixada,1,3,PR,SC,13.485,Péricles Pegado Cortez,0,0,Sábado
+2839,14,2009-07-25,18:30,Botafogo-RJ,Internacional,,,,,Botafogo-RJ,Engenhão,3,2,RJ,RS,8.523,Evandro Roman,0,0,Sábado
+2840,14,2009-07-26,16:00,Santos,Flamengo,,,,,Flamengo, Vila Belmiro,1,2,SP,RJ,10.633,Heber Roberto Lopes,0,0,Domingo
+2841,14,2009-07-26,16:00,Corinthians,Palmeiras,,,,,Palmeiras,Eduardo José Farah,0,3,SP,SP,29.777,Leonardo Gaciba,1,0,Domingo
+2842,14,2009-07-26,16:00,Atletico-MG,Goias,,,,,Goias, Mineirão,0,1,MG,GO,59.991,Marcelo de Lima Henrique,0,0,Domingo
+2843,14,2009-07-26,16:00,Sport,Nautico,,,,,-,Ilha do Retiro,3,3,PE,PE,7.285,Wagner Tardelli,0,0,Domingo
+2844,14,2009-07-26,18:30,Fluminense,Cruzeiro,,,,,-, Maracanã,1,1,RJ,MG,13.560,Arilson Bispo da Anunciação,0,1,Domingo
+2845,14,2009-07-26,18:30,Vitoria,Coritiba,,,,,Vitoria, Barradão,1,0,BA,PR,12.105,Francisco de Almeida Filho,0,0,Domingo
+2846,14,2009-07-26,18:30,Barueri,Sao Paulo,,,,,Sao Paulo,Arena Barueri,1,2,SP,SP,6.754,Rodrigo Martins Cintra,0,1,Domingo
+2847,15,2009-07-29,19:30,Nautico,Santos,,,,,Santos,Aflitos,1,2,PE,SP,13.511,Jailson Macedo Freitas,1,0,Quarta-feira
+2848,15,2009-07-29,19:30,Coritiba,Botafogo-RJ,,,,,-, Couto Pereira,2,2,PR,RJ,9.689,Leandro Vuaden,0,0,Quarta-feira
+2849,15,2009-07-29,21:00,Goias,Athletico-PR,,,,,Goias, Serra Dourada,3,0,GO,PR,11.257,Devarly Lira do Rosário ,0,1,Quarta-feira
+2850,15,2009-07-29,21:00,Internacional,Barueri,,,,,Internacional, Beira Rio,3,2,RS,SP,12.495,Francisco Carlos Nascimento,0,0,Quarta-feira
+2851,15,2009-07-29,21:50,Cruzeiro,Sport,,,,,Cruzeiro, Mineirão,1,0,MG,PE,17.954,Marcelo de Lima Henrique,1,1,Quarta-feira
+2852,15,2009-07-29,21:50,Santo Andre,Corinthians,,,,,-,Teixeirão,1,1,SP,SP,17.219,Cléber Wellington Abade,0,1,Quarta-feira
+2853,15,2009-07-29,21:50,Palmeiras,Fluminense,,,,,Palmeiras,Palestra Itália,1,0,SP,RJ,16.301,Ricardo Marques Ribeiro,0,0,Quarta-feira
+2854,15,2009-07-30,21:00,Avai,Vitoria,,,,,Avai,  Ressacada,4,0,SC,BA,12.546,Sandro Meira Ricci,1,1,Quinta-feira
+2855,15,2009-07-30,21:00,Flamengo,Atletico-MG,,,,,Flamengo, Maracanã,3,1,RJ,MG,26.934,Leonardo Gaciba,0,0,Quinta-feira
+2856,15,2009-07-30,21:00,Sao Paulo,Gremio,,,,,Sao Paulo, Morumbi,2,1,SP,RS,13.223,Heber Roberto Lopes,0,0,Quinta-feira
+2857,16,2009-08-01,18:30,Sport,Palmeiras,,,,,Palmeiras,Ilha do Retiro,0,1,PE,SP,16.921,Péricles Bassols Cortez,1,0,Sábado
+2858,16,2009-08-01,18:30,Botafogo-RJ,Barueri,,,,,Botafogo-RJ,Engenhão,2,1,RJ,SP,12.432,Arilson Bispo da Anunciação,0,0,Sábado
+2859,16,2009-08-02,16:00,Flamengo,Nautico,,,,,-, Maracanã,1,1,RJ,PE,41.772,Sandro Meira Ricci,0,1,Domingo
+2860,16,2009-08-02,16:00,Corinthians,Avai,,,,,-, Pacaembu,0,0,SP,SC,13.686,Ricardo Marques Ribeiro,0,0,Domingo
+2861,16,2009-08-02,16:00,Vitoria,Sao Paulo,,,,,Sao Paulo, Barradão,0,1,BA,SP,19.100,Francisco Carlos Nascimento,0,0,Domingo
+2862,16,2009-08-02,16:00,Athletico-PR,Fluminense,,,,,Athletico-PR,  Estádio do Café,1,0,PR,RJ,3.015,Carlos Eugenio Simon,1,0,Domingo
+2865,16,2009-08-02,16:00,Atletico-MG,Coritiba,,,,,Atletico-MG, Mineirão,3,2,MG,PR,26.179,Felipe Gomes da Silva,0,0,Domingo
+2863,16,2009-08-02,18:30,Santo Andre,Goias,,,,,Goias, Anacleto Campanella,1,2,SP,GO,847,Wagner Tardelli,0,0,Domingo
+2864,16,2009-08-02,18:30,Gremio,Cruzeiro,,,,,Gremio, Olímpico,4,1,RS,MG,13.306,Evandro Roman,0,2,Domingo
+2867,17,2009-08-05,19:30,Cruzeiro,Athletico-PR,,,,,Athletico-PR, Mineirão,0,2,MG,PR,15.484,Sálvio Spínola Fagundes Filho,2,1,Quarta-feira
+2868,17,2009-08-05,21:00,Avai,Santo Andre,,,,,Avai,  Ressacada,1,0,SC,SP,8.364,André Luiz de Castro,0,0,Quarta-feira
+2869,17,2009-08-05,21:00,Sao Paulo,Botafogo-RJ,,,,,Sao Paulo, Morumbi,3,1,SP,RJ,19.182,Elmo Resende Cunha,0,0,Quarta-feira
+2870,17,2009-08-05,21:50,Nautico,Corinthians,,,,,Nautico,Aflitos,1,0,PE,SP,15.041,Arilson Bispo da Anunciação,0,0,Quarta-feira
+2871,17,2009-08-05,21:50,Coritiba,Santos,,,,,Santos,  Olímpico Regional,0,1,PR,SP,17.250,Sandro Meira Ricci,0,1,Quarta-feira
+2872,17,2009-08-05,21:50,Goias,Flamengo,,,,,Goias, Serra Dourada,3,2,GO,RJ,37.320,Heber Roberto Lopes,0,0,Quarta-feira
+2873,17,2009-08-06,21:00,Palmeiras,Gremio,,,,,-,Palestra Itália,1,1,SP,RS,25.440,Nielson Nogueira Dias,0,0,Quinta-feira
+2874,17,2009-08-06,21:00,Fluminense,Sport,,,,,Fluminense, Maracanã,5,1,RJ,PE,11.086,Wilton Pereira Sampaio,0,0,Quinta-feira
+2875,17,2009-08-06,21:00,Barueri,Vitoria,,,,,Barueri,Arena Barueri,4,0,SP,BA,2.180,Pablo dos Santos Alves,0,0,Quinta-feira
+2877,18,2009-08-08,18:30,Santos,Avai,,,,,-, Vila Belmiro,2,2,SP,SC,12.074,Wallace Nascimento Valente,0,0,Sábado
+2878,18,2009-08-08,18:30,Nautico,Santo Andre,,,,,Nautico,Luiz Lacerda,2,1,PE,SP,3.434,Wagner Reway,1,0,Sábado
+2879,18,2009-08-08,18:30,Botafogo-RJ,Athletico-PR,,,,,Athletico-PR,Engenhão,0,1,RJ,PR,11.454,Francisco de Almeida Filho,0,0,Sábado
+2880,18,2009-08-09,16:00,Flamengo,Corinthians,,,,,Flamengo, Maracanã,1,0,RJ,SP,47.068,Evandro Roman,0,0,Domingo
+2881,18,2009-08-09,16:00,Vitoria,Fluminense,,,,,-, Barradão,2,2,BA,RJ,8.982,Leonardo Gaciba,0,0,Domingo
+2882,18,2009-08-09,18:30,Coritiba,Cruzeiro,,,,,Cruzeiro, Couto Pereira,1,3,PR,MG,11.485,Paulo César Oliveira,0,0,Domingo
+2883,18,2009-08-09,18:30,Sao Paulo,Goias,,,,,Sao Paulo, Morumbi,3,1,SP,GO,28.200,Alicio Pena Júnior,0,1,Domingo
+2884,18,2009-08-09,18:30,Barueri,Gremio,,,,,Barueri,Arena Barueri,1,0,SP,RS,4.576,Renato Cardoso da Conceição,0,0,Domingo
+2885,18,2009-08-10,21:00,Internacional,Sport,,,,,Internacional, Beira Rio,3,0,RS,PE,16.650,Sálvio Spínola Fagundes Filho,0,0,Segunda-feira
+2886,18,2009-08-12,21:50,Atletico-MG,Palmeiras,,,,,-, Mineirão,1,1,MG,SP,51.532,Djalma José Beltrami,0,0,Quarta-feira
+2887,19,2009-08-15,18:30,Avai,Nautico,,,,,Avai,  Ressacada,2,1,SC,PE,9.223,Wilton Pereira Sampaio,0,1,Sábado
+2888,19,2009-08-15,18:30,Santo Andre,Internacional,,,,,Internacional,Bruno José Daniel,0,2,SP,RS,2.725,Elmo Alves Resende Cunha,0,1,Sábado
+2889,19,2009-08-15,18:30,Palmeiras,Botafogo-RJ,,,,,-,Palestra Itália,1,1,SP,RJ,24.231,Cláudio Mercante,0,0,Sábado
+2890,19,2009-08-16,16:00,Fluminense,Coritiba,,,,,Coritiba, Maracanã,1,3,RJ,PR,17.042,Francisco Carlos Nascimento,0,0,Domingo
+2891,19,2009-08-16,16:00,Gremio,Flamengo,,,,,Gremio, Olímpico,4,1,RS,RJ,21.752,Paulo César Oliveira,0,0,Domingo
+2892,19,2009-08-16,16:00,Corinthians,Atletico-MG,,,,,Corinthians, Pacaembu,2,0,SP,MG,19.773,Leandro Vuaden,0,1,Domingo
+2893,19,2009-08-16,16:00,Sport,Sao Paulo,,,,,Sao Paulo,Ilha do Retiro,1,2,PE,SP,24.329,Sandro Meira Ricci,1,1,Domingo
+2894,19,2009-08-16,16:00,Goias,Vitoria,,,,,Goias, Serra Dourada,3,2,GO,BA,7.202,Luiz Flávio de Oliveira,1,1,Domingo
+2895,19,2009-08-16,18:30,Athletico-PR,Barueri,,,,,Athletico-PR, Arena da Baixada,3,0,PR,SP,14.992,Carlos Eugenio Simon,0,1,Domingo
+2896,19,2009-08-16,18:30,Cruzeiro,Santos,,,,,-, Mineirão,0,0,MG,SP,16.939,Marcelo de Lima Henrique,0,0,Domingo
+2897,20,2009-08-19,19:30,Santos,Gremio,,,,,Santos, Vila Belmiro,1,0,SP,RS,6.499,André Luiz de Freitas Castro,0,1,Quarta-feira
+2898,20,2009-08-19,19:30,Vitoria,Athletico-PR,,,,,Vitoria, Barradão,2,1,BA,PR,5.376,Wilson Souza de Mendonça,0,1,Quarta-feira
+2899,20,2009-08-19,19:30,Botafogo-RJ,Santo Andre,,,,,Santo Andre,Engenhão,1,2,RJ,SP,6.524,Renato Cardoso da Conceição,0,1,Quarta-feira
+2900,20,2009-08-19,21:00,Barueri,Sport,,,,,Barueri,Arena Barueri,2,1,SP,PE,2.243,Antonio Hora Filho,1,0,Quarta-feira
+2901,20,2009-08-19,21:50,Sao Paulo,Fluminense,,,,,Sao Paulo, Morumbi,1,0,SP,RJ,22.115,Arilson Bispo da Anunciação,0,0,Quarta-feira
+2902,20,2009-08-19,21:50,Coritiba,Palmeiras,,,,,Coritiba, Couto Pereira,1,0,PR,SP,16.381,Péricles Bassols Cortez,2,2,Quarta-feira
+2903,20,2009-08-19,21:50,Internacional,Corinthians,,,,,Corinthians, Beira Rio,1,2,RS,SP,26.326,Wagner Tardelli,0,0,Quarta-feira
+2904,20,2009-08-20,21:00,Flamengo,Cruzeiro,,,,,Cruzeiro, Maracanã,1,2,RJ,MG,12.273,Rodrigo Martins Cintra,0,0,Quinta-feira
+2905,20,2009-08-20,21:00,Nautico,Goias,,,,,Nautico,Aflitos,2,0,PE,GO,3.246,Evandro Roman,0,2,Quinta-feira
+2906,20,2009-08-20,21:00,Atletico-MG,Avai,,,,,-, Mineirão,2,2,MG,SC,18.567,Heber Roberto Lopes,0,0,Quinta-feira
+2907,21,2009-08-22,18:30,Palmeiras,Internacional,,,,,Palmeiras,Palestra Itália,2,1,SP,RS,22.101,Wilton Pereira Sampaio,0,0,Sábado
+2908,21,2009-08-22,18:30,Santo Andre,Coritiba,,,,,Santo Andre,Bruno José Daniel,1,0,SP,PR,1.245,Rodrigo Nunes de Sá,0,1,Sábado
+2909,21,2009-08-22,18:30,Sport,Vitoria,,,,,Sport,Ilha do Retiro,2,0,PE,BA,17.064,Gutemberg de Paula Fonseca,0,0,Sábado
+2910,21,2009-08-23,16:00,Corinthians,Botafogo-RJ,,,,,-, Pacaembu,3,3,SP,RJ,17.452,Arilson Bispo da Anunciação,0,0,Domingo
+2911,21,2009-08-23,16:00,Athletico-PR,Sao Paulo,,,,,Athletico-PR, Arena da Baixada,1,0,PR,SP,22.999,Marcelo de Lima Henrique,0,0,Domingo
+2912,21,2009-08-23,16:00,Gremio,Atletico-MG,,,,,Gremio, Olímpico,4,1,RS,MG,19.213,Wilson Souza de Mendonça,0,0,Domingo
+2913,21,2009-08-23,16:00,Fluminense,Barueri,,,,,-, Maracanã,0,0,RJ,SP,9.226,Paulo Henrique Bezerra,0,0,Domingo
+2914,21,2009-08-23,18:30,Goias,Santos,,,,,Goias, Serra Dourada,2,1,GO,SP,12.328,Heber Roberto Lopes,1,0,Domingo
+2915,21,2009-08-23,18:30,Cruzeiro,Nautico,,,,,Cruzeiro, Mineirão,4,2,MG,PE,14.708,Pablo dos Santos Alves,0,0,Domingo
+2916,21,2009-08-23,18:30,Avai,Flamengo,,,,,Avai,  Ressacada,3,0,SC,RJ,14.777,Luiz Flávio de Oliveira,0,1,Domingo
+2866,16,2009-08-26,21:00,Santos,Internacional,,,,,-, Vila Belmiro,3,3,SP,RS,7.876,Luís Antônio Silva Santos,1,2,Quarta-feira
+2917,22,2009-08-26,21:50,Barueri,Corinthians,,,,,-,Arena Barueri,2,2,SP,SP,9.665,Sálvio Spínola Fagundes Filho,1,0,Quarta-feira
+2816,11,2009-08-27,21:00,Botafogo-RJ,Cruzeiro,,,,,-,Engenhão,1,1,RJ,MG,6.472,Heber Roberto Lopes,1,0,Quinta-feira
+2918,22,2009-08-29,18:30,Coritiba,Avai,,,,,Coritiba, Couto Pereira,2,0,PR,SC,16.272,Sálvio Spínola,0,0,Sábado
+2919,22,2009-08-29,18:30,Flamengo,Santo Andre,,,,,Flamengo, Maracanã,3,0,RJ,SP,13.531,Wilton Pereira Sampaio,0,0,Sábado
+2920,22,2009-08-29,18:30,Nautico,Athletico-PR,,,,,Nautico,Aflitos,3,0,PE,PR,14.099,Alicio Pena Júnior,0,0,Sábado
+2921,22,2009-08-30,16:00,Sao Paulo,Palmeiras,,,,,-, Morumbi,0,0,SP,SP,41.083,Heber Roberto Lopes,0,0,Domingo
+2922,22,2009-08-30,16:00,Santos,Fluminense,,,,,Santos, Vila Belmiro,2,0,SP,RJ,9.705,Evandro Roman,0,0,Domingo
+2923,22,2009-08-30,16:00,Atletico-MG,Sport,,,,,-, Mineirão,1,1,MG,PE,19.783,Paulo César Oliveira,0,0,Domingo
+2924,22,2009-08-30,18:30,Vitoria,Cruzeiro,,,,,-, Barradão,3,3,BA,MG,7.388,Marcelo de Lima Henrique,0,1,Domingo
+2925,22,2009-08-30,18:30,Internacional,Goias,,,,,Internacional, Beira Rio,4,0,RS,GO,25.820,Ricardo Martins Ribeiro,0,1,Domingo
+2926,22,2009-08-30,18:30,Botafogo-RJ,Gremio,,,,,-,Engenhão,3,3,RJ,RS,10.031,Rodrigo Martins Cintra,0,0,Domingo
+2876,17,2009-09-02,21:00,Internacional,Atletico-MG,,,,,Internacional, Beira Rio,3,0,RS,MG,20.250,Francisco Carlos Nascimento,0,0,Quarta-feira
+2927,23,2009-09-02,21:50,Corinthians,Santos,,,,,Corinthians, Pacaembu,2,1,SP,SP,25.645,Guilherme Cereta de Lima,0,0,Quarta-feira
+2928,23,2009-09-05,18:30,Palmeiras,Barueri,,,,,Palmeiras,Palestra Itália,2,1,SP,SP,23.357,Cléber Wellington Abade,0,0,Sábado
+2929,23,2009-09-05,18:30,Gremio,Vitoria,,,,,-, Olímpico,1,1,RS,BA,17.653,Elmo Resende Cunha,0,1,Sábado
+2930,23,2009-09-05,18:30,Sport,Botafogo-RJ,,,,,Sport,Ilha do Retiro,2,1,PE,RJ,23.601,Sálvio Spínola,0,0,Sábado
+2931,23,2009-09-06,16:00,Athletico-PR,Flamengo,,,,,-, Arena da Baixada,0,0,PR,RJ,16.970,Leandro Vuaden,0,1,Domingo
+2932,23,2009-09-06,16:00,Cruzeiro,Sao Paulo,,,,,Sao Paulo, Mineirão,1,2,MG,SP,27.953,Luis Antonio Silva Santos,0,0,Domingo
+2933,23,2009-09-06,16:00,Goias,Coritiba,,,,,-, Serra Dourada,2,2,GO,PR,5.212,Paulo Henrique Bezerra,1,0,Domingo
+2934,23,2009-09-06,18:30,Avai,Internacional,,,,,Internacional,  Ressacada,0,2,SC,RS,14.520,Wallace Nascimento Valente,0,2,Domingo
+2935,23,2009-09-06,18:30,Fluminense,Nautico,,,,,-, Maracanã,1,1,RJ,PE,20.887,Sandro Meira Ricci,0,0,Domingo
+2936,23,2009-09-06,18:30,Santo Andre,Atletico-MG,,,,,Atletico-MG,Bruno José Daniel,1,2,SP,MG,1.675,Péricles Bassols Cortez,1,0,Domingo
+2937,24,2009-09-12,18:30,Sao Paulo,Avai,,,,,Sao Paulo, Morumbi,2,0,SP,SC,29.496,Leandro Vuaden,0,0,Sábado
+2938,24,2009-09-12,18:30,Flamengo,Sport,,,,,Flamengo, Maracanã,3,0,RJ,PE,26.995,André Luiz Castro,0,1,Sábado
+2939,24,2009-09-13,16:00,Santos,Santo Andre,,,,,Santos, Vila Belmiro,1,0,SP,SP,7.790,Paulo César Oliveira,0,0,Domingo
+2940,24,2009-09-13,16:00,Atletico-MG,Athletico-PR,,,,,Atletico-MG, Mineirão,2,1,MG,PR,33.597,Pablo dos Santos Alves,0,0,Domingo
+2941,24,2009-09-13,16:00,Vitoria,Palmeiras,,,,,Vitoria, Barradão,3,2,BA,SP,24.469,Sandro Meira Ricci,0,0,Domingo
+2942,24,2009-09-13,16:00,Internacional,Cruzeiro,,,,,Cruzeiro, Beira Rio,2,3,RS,MG,38.350,Paulo Henrique Bezerra,0,0,Domingo
+2943,24,2009-09-13,18:30,Botafogo-RJ,Fluminense,,,,,-,Engenhão,0,0,RJ,RJ,18.368,Rodrigo Nunes de Sá,0,0,Domingo
+2944,24,2009-09-13,18:30,Nautico,Gremio,,,,,Gremio,Aflitos,0,2,PE,RS,16.473,Wilson Luiz Seneme,0,1,Domingo
+2945,24,2009-09-13,18:30,Barueri,Goias,,,,,Barueri,Arena Barueri,3,1,SP,GO,2.276,Francisco Carlos Nascimento,0,0,Domingo
+2946,24,2009-09-16,21:50,Coritiba,Corinthians,,,,,-, Couto Pereira,1,1,PR,SP,32.744,Elmo Resende Cunha,0,0,Quarta-feira
+2947,25,2009-09-19,18:30,Athletico-PR,Sport,,,,,Athletico-PR, Arena da Baixada,1,0,PR,PE,15.026,Paulo César Oliveira,0,0,Sábado
+2948,25,2009-09-19,18:30,Vitoria,Internacional,,,,,Vitoria, Barradão,2,0,BA,RS,19.033,Alicio Pena Júnior,0,0,Sábado
+2949,25,2009-09-19,18:30,Nautico,Atletico-MG,,,,,-,Aflitos,0,0,PE,MG,14.355,Heber Roberto Lopes,0,0,Sábado
+2950,25,2009-09-20,16:00,Gremio,Fluminense,,,,,Gremio, Olímpico,5,1,RS,RJ,27.205,Wallace Nascimento Valente,0,0,Domingo
+2951,25,2009-09-20,16:00,Santo Andre,Sao Paulo,,,,,-,  Santa Cruz,1,1,SP,SP,19.716,Flávio Guerra,0,0,Domingo
+2952,25,2009-09-20,16:00,Avai,Barueri,,,,,Avai,  Ressacada,4,0,SC,SP,9.902,Wagner Reway,0,1,Domingo
+2953,25,2009-09-20,18:30,Flamengo,Coritiba,,,,,Flamengo, Maracanã,3,0,RJ,PR,47.921,Wilton Pereira Sampaio,0,0,Domingo
+2954,25,2009-09-20,18:30,Santos,Botafogo-RJ,,,,,-, Vila Belmiro,0,0,SP,RJ,6.336,Leonardo Gaciba,0,0,Domingo
+2955,25,2009-09-20,18:30,Corinthians,Goias,,,,,Goias, Pacaembu,1,4,SP,GO,35.748,Marcelo de Lima Henrique,0,0,Domingo
+2956,25,2009-09-23,21:50,Cruzeiro,Palmeiras,,,,,Palmeiras, Mineirão,1,2,MG,SP,26.282,Evandro Roman,0,1,Quarta-feira
+2957,26,2009-09-26,18:30,Palmeiras,Athletico-PR,,,,,Palmeiras,Palestra Itália,2,1,SP,PR,23.395,Jailson Macedo Freitas,0,0,Sábado
+2958,26,2009-09-26,18:30,Barueri,Cruzeiro,,,,,Cruzeiro,Arena Barueri,0,1,SP,MG,3.365,Djalma José Beltrami,1,0,Sábado
+2959,26,2009-09-27,16:00,Internacional,Flamengo,,,,,-, Beira Rio,0,0,RS,RJ,12.481,Sandro Meira Ricci,0,0,Domingo
+2960,26,2009-09-27,16:00,Sao Paulo,Corinthians,,,,,-, Morumbi,1,1,SP,SP,32.180,Ricardo Marques Ribeiro,1,0,Domingo
+2961,26,2009-09-27,16:00,Coritiba,Nautico,,,,,Coritiba, Couto Pereira,2,0,PR,PE,12.685,Leonardo Gaciba,0,0,Domingo
+2962,26,2009-09-27,16:00,Goias,Gremio,,,,,Goias, Serra Dourada,2,1,GO,RS,12.644,Heber Roberto Lopes,0,0,Domingo
+2963,26,2009-09-27,16:00,Fluminense,Avai,,,,,Fluminense, Maracanã,3,2,RJ,SC,19.098,André Luiz de Freitas Castro,0,0,Domingo
+2964,26,2009-09-27,18:30,Atletico-MG,Santos,,,,,Atletico-MG, Mineirão,3,1,MG,SP,36.294,Wilton Pereira Sampaio,0,0,Domingo
+2965,26,2009-09-27,18:30,Botafogo-RJ,Vitoria,,,,,Vitoria,Engenhão,1,3,RJ,BA,11.852,Wallace Nascimento Valente,1,0,Domingo
+2966,26,2009-09-27,18:30,Sport,Santo Andre,,,,,Sport,Ilha do Retiro,2,1,PE,SP,10.513,Wagner Tardelli,0,0,Domingo
+2967,27,2009-09-30,21:50,Nautico,Sao Paulo,,,,,Sao Paulo,Aflitos,1,2,PE,SP,6.027,Francisco Carlos Nascimento,2,2,Quarta-feira
+2968,27,2009-10-03,18:30,Santo Andre,Vitoria,,,,,Santo Andre,Bruno José Daniel,1,0,SP,BA,1.701,Paulo Henrique Bezerra,1,1,Sábado
+2969,27,2009-10-03,18:30,Corinthians,Athletico-PR,,,,,Athletico-PR, Pacaembu,1,3,SP,PR,29.716,André Luiz de Freitas,0,0,Sábado
+2970,27,2009-10-03,18:30,Atletico-MG,Barueri,,,,,Atletico-MG, Mineirão,2,1,MG,SP,44.707,Cláudio Mercante,0,1,Sábado
+2971,27,2009-10-04,16:00,Santos,Palmeiras,,,,,Palmeiras, Vila Belmiro,1,3,SP,SP,10.402,Sálvio Spínola,0,0,Domingo
+2972,27,2009-10-04,16:00,Gremio,Sport,,,,,-, Olímpico,3,3,RS,PE,19.174,Wilson Luiz Seneme,0,0,Domingo
+2973,27,2009-10-04,16:00,Goias,Botafogo-RJ,,,,,Botafogo-RJ, Serra Dourada,1,3,GO,RJ,22.989,Sandro Meira Ricci,1,0,Domingo
+2974,27,2009-10-04,18:30,Flamengo,Fluminense,,,,,Flamengo, Maracanã,2,0,RJ,RJ,78.409,Marcelo de Lima Henrique,0,0,Domingo
+2975,27,2009-10-04,18:30,Avai,Cruzeiro,,,,,-,  Ressacada,2,2,SC,MG,10.823,Carlos Eugenio Simon,0,0,Domingo
+2976,27,2009-10-04,18:30,Coritiba,Internacional,,,,,Coritiba, Couto Pereira,2,0,PR,RS,21.159,Nielson Nogueira Dias,0,0,Domingo
+2977,28,2009-10-07,19:30,Sport,Santos,,,,,Santos,Ilha do Retiro,0,1,PE,SP,26.249,Wagner Tardelli,0,0,Quarta-feira
+2978,28,2009-10-07,19:30,Barueri,Santo Andre,,,,,-,Arena Barueri,0,0,SP,SP,1.660,Cléber Wellington Abade,0,0,Quarta-feira
+2979,28,2009-10-07,21:00,Athletico-PR,Gremio,,,,,-, Arena da Baixada,0,0,PR,RS,19.375,Sálvio Spínola,0,0,Quarta-feira
+2980,28,2009-10-07,21:00,Sao Paulo,Coritiba,,,,,-, Morumbi,2,2,SP,PR,16.602,Carlos Eugenio Simon,0,0,Quarta-feira
+2981,28,2009-10-07,21:50,Vitoria,Flamengo,,,,,-, Barradão,3,3,BA,RJ,21.324,Nielson Nogueira Dias,0,0,Quarta-feira
+2982,28,2009-10-07,21:50,Fluminense,Corinthians,,,,,-, Maracanã,1,1,RJ,SP,8.775,Wilton Pereira Sampaio,0,0,Quarta-feira
+2983,28,2009-10-07,21:50,Internacional,Nautico,,,,,Internacional, Beira Rio,3,1,RS,PE,11.688,Wallace Nascimento Valente,0,0,Quarta-feira
+2984,28,2009-10-08,21:00,Cruzeiro,Goias,,,,,Cruzeiro, Mineirão,3,0,MG,GO,7.693,Leandro Vuaden,0,1,Quinta-feira
+2985,28,2009-10-08,21:00,Palmeiras,Avai,,,,,-,Palestra Itália,2,2,SP,SC,16.597,Marcelo de Lima Henrique,1,0,Quinta-feira
+2986,28,2009-10-08,21:00,Botafogo-RJ,Atletico-MG,,,,,Botafogo-RJ,Engenhão,3,1,RJ,MG,6.034,Francisco Carlos Nascimento,0,1,Quinta-feira
+2987,29,2009-10-10,16:10,Corinthians,Gremio,,,,,Corinthians, Pacaembu,2,1,SP,RS,19.144,Nielson Nogueira Dias,0,0,Sábado
+2988,29,2009-10-10,16:10,Flamengo,Sao Paulo,,,,,Flamengo, Maracanã,2,1,RJ,SP,57.210,Wilson Pereira Sampaio,0,0,Sábado
+2989,29,2009-10-10,18:10,Santo Andre,Fluminense,,,,,Fluminense,Bruno José Daniel,1,2,SP,RJ,2.029,Carlos Eugenio Simon,0,0,Sábado
+2990,29,2009-10-10,18:30,Internacional,Athletico-PR,,,,,-, Beira Rio,1,1,RS,PR,21.605,Luís Antonio Silva Santos,1,0,Sábado
+2991,29,2009-10-10,18:30,Coritiba,Barueri,,,,,Barueri, Couto Pereira,1,2,PR,SP,15.874,Péricles Bassols Cortez,0,0,Sábado
+2992,29,2009-10-12,16:00,Santos,Vitoria,,,,,-, Pacaembu,0,0,SP,BA,23.673,Wagner Reway,0,0,Segunda-feira
+2993,29,2009-10-12,16:00,Atletico-MG,Cruzeiro,,,,,Cruzeiro, Mineirão,0,1,MG,MG,45.959,Sálvio Spínola,0,0,Segunda-feira
+2994,29,2009-10-12,16:00,Goias,Sport,,,,,-, Serra Dourada,1,1,GO,PE,9.621,Jaílson Macedo Freitas,0,0,Segunda-feira
+2995,29,2009-10-12,16:00,Nautico,Palmeiras,,,,,Nautico,Aflitos,3,0,PE,SP,17.027,Wagner Tardelli,0,0,Segunda-feira
+2996,29,2009-10-12,16:00,Botafogo-RJ,Avai,,,,,-,Engenhão,2,2,RJ,SC,33.641,André Luiz de Castro,1,1,Segunda-feira
+2997,30,2009-10-17,18:30,Barueri,Santos,,,,,-,Arena Barueri,0,0,SP,SP,3.688,Marcelo Aparecido de Souza,0,1,Sábado
+2998,30,2009-10-17,18:30,Sao Paulo,Atletico-MG,,,,,Atletico-MG, Morumbi,0,1,SP,MG,25.947,Heber Roberto Lopes,0,0,Sábado
+2999,30,2009-10-17,18:30,Avai,Goias,,,,,Avai,  Ressacada,2,1,SC,GO,7.860,Wilson Souza de Mendonça,0,0,Sábado
+3000,30,2009-10-18,16:00,Sport,Corinthians,,,,,Sport,Ilha do Retiro,2,0,PE,SP,21.143,Francisco Carlos Nascimento,0,0,Domingo
+3001,30,2009-10-18,16:00,Gremio,Coritiba,,,,,Gremio, Olímpico,2,0,RS,PR,15.631,Célio Amorim,0,1,Domingo
+3002,30,2009-10-18,16:00,Fluminense,Internacional,,,,,-, Maracanã,2,2,RJ,RS,28.138,Wallace Nascimento Valente,0,0,Domingo
+3003,30,2009-10-18,16:10,Palmeiras,Flamengo,,,,,Flamengo,Palestra Itália,0,2,SP,RJ,26.462,Sandro Meira Ricci,0,0,Domingo
+3004,30,2009-10-18,18:30,Athletico-PR,Santo Andre,,,,,Athletico-PR, Arena da Baixada,3,0,PR,SP,16.840,Ricardo Marques Ribeiro,0,0,Domingo
+3005,30,2009-10-18,18:30,Cruzeiro,Botafogo-RJ,,,,,Cruzeiro, Mineirão,1,0,MG,RJ,28.604,Leonardo Gaciba,0,0,Domingo
+3006,30,2009-10-18,18:30,Vitoria,Nautico,,,,,Vitoria, Barradão,3,1,BA,PE,11.891,André Luiz de Castro,0,1,Domingo
+3007,31,2009-10-21,21:50,Santo Andre,Palmeiras,,,,,Santo Andre,Bruno José Daniel,2,0,SP,SP,10.612,Sálvio Spínola,0,0,Quarta-feira
+3008,31,2009-10-24,18:30,Atletico-MG,Vitoria,,,,,Atletico-MG, Mineirão,1,0,MG,BA,57.901,Elmo Resende Cunha,0,1,Sábado
+3009,31,2009-10-24,18:30,Nautico,Barueri,,,,,Nautico,Aflitos,2,1,PE,SP,13.249,Leandro Vuaden,0,0,Sábado
+3010,31,2009-10-25,16:00,Santos,Sao Paulo,,,,,Sao Paulo, Vila Belmiro,3,4,SP,SP,8.735,Carlos Eugenio Simon,0,1,Domingo
+3011,31,2009-10-25,16:00,Internacional,Gremio,,,,,Internacional, Beira Rio,1,0,RS,RS,36.834,Wilson Luiz Seneme,0,1,Domingo
+3012,31,2009-10-25,16:00,Coritiba,Athletico-PR,,,,,Coritiba, Couto Pereira,3,2,PR,PR,32.838,Paulo César Oliveira,0,1,Domingo
+3013,31,2009-10-25,16:00,Goias,Fluminense,,,,,-, Serra Dourada,2,2,GO,RJ,10.078,Leonardo Gaciba,0,0,Domingo
+3014,31,2009-10-25,18:30,Corinthians,Cruzeiro,,,,,Cruzeiro, Pacaembu,0,1,SP,MG,21.738,Péricles Bassols Cortez,0,1,Domingo
+3015,31,2009-10-25,18:30,Avai,Sport,,,,,-,  Ressacada,2,2,SC,PE,8.571,Sálvio Spínola,0,0,Domingo
+3016,31,2009-10-25,18:30,Botafogo-RJ,Flamengo,,,,,Flamengo,Engenhão,0,1,RJ,RJ,25.192,Luís Antonio Silva Santos,0,0,Domingo
+3017,32,2009-10-28,19:30,Athletico-PR,Santos,,,,,-, Arena da Baixada,1,1,PR,SP,17.930,Francisco de Assis Almeida Filho,0,1,Quarta-feira
+3018,32,2009-10-28,19:30,Botafogo-RJ,Nautico,,,,,Botafogo-RJ,Engenhão,1,0,RJ,PE,6.127,Leonardo Gaciba,0,0,Quarta-feira
+3019,32,2009-10-28,21:00,Cruzeiro,Santo Andre,,,,,Cruzeiro, Mineirão,3,2,MG,SP,19.567,Célio Amorim,0,0,Quarta-feira
+3020,32,2009-10-28,21:00,Gremio,Avai,,,,,Gremio, Olímpico,3,1,RS,SC,9.391,Péricles Bassols Cortez,1,0,Quarta-feira
+3021,32,2009-10-28,21:50,Vitoria,Corinthians,,,,,Corinthians, Barradão,0,1,BA,SP,21.681,Márcio Chagas da Silva,0,0,Quarta-feira
+3022,32,2009-10-28,21:50,Barueri,Flamengo,,,,,Barueri,Arena Barueri,2,0,SP,RJ,10.354,Heber Roberto Lopes,0,0,Quarta-feira
+3023,32,2009-10-28,21:50,Sao Paulo,Internacional,,,,,Sao Paulo, Morumbi,1,0,SP,RS,34.203,Sandro Meira Ricci,0,0,Quarta-feira
+3024,32,2009-10-29,21:00,Sport,Coritiba,,,,,-,Ilha do Retiro,1,1,PE,PR,21.022,Wallace Nascimento Valente,0,0,Quinta-feira
+3025,32,2009-10-29,21:00,Fluminense,Atletico-MG,,,,,Fluminense, Maracanã,2,1,RJ,MG,12.037,André Luiz de Castro,0,1,Quinta-feira
+3026,32,2009-10-29,21:00,Palmeiras,Goias,,,,,Palmeiras,Palestra Itália,4,0,SP,GO,18.070,Marcelo de Lima Henrique,0,1,Quinta-feira
+3027,33,2009-10-31,18:30,Flamengo,Santos,,,,,Flamengo, Maracanã,1,0,RJ,SP,77.063,Nielson Nogueira Dias,0,0,Sábado
+3028,33,2009-10-31,18:30,Avai,Athletico-PR,,,,,Avai,  Ressacada,2,0,SC,PR,7.299,Renato Cardoso da Conceição,0,0,Sábado
+3029,33,2009-10-31,18:30,Sao Paulo,Barueri,,,,,Sao Paulo, Morumbi,1,0,SP,SP,39.636,Wilson Luiz Seneme,0,0,Sábado
+3030,33,2009-11-01,16:00,Palmeiras,Corinthians,,,,,-,Eduardo José Farah,2,2,SP,SP,18.752,Heber Roberto Lopes,1,0,Domingo
+3031,33,2009-11-01,16:00,Internacional,Botafogo-RJ,,,,,Botafogo-RJ, Beira Rio,0,1,RS,RJ,16.932,Elmo Resende Cunha,0,1,Domingo
+3032,33,2009-11-01,16:00,Coritiba,Vitoria,,,,,Coritiba, Couto Pereira,1,0,PR,BA,11.808,Paulo Henrique Bezerra,0,0,Domingo
+3033,33,2009-11-01,16:00,Goias,Atletico-MG,,,,,Atletico-MG, Serra Dourada,2,3,GO,MG,8.748,Rodrigo Nunes de Sá,1,0,Domingo
+3034,33,2009-11-01,18:30,Cruzeiro,Fluminense,,,,,Fluminense, Mineirão,2,3,MG,RJ,49.140,Sandro Meira Ricci,0,0,Domingo
+3035,33,2009-11-01,18:30,Santo Andre,Gremio,,,,,Santo Andre,Bruno José Daniel,2,0,SP,RS,2.240,Wagner Tardelli,0,1,Domingo
+3036,33,2009-11-01,18:30,Nautico,Sport,,,,,Nautico,Aflitos,3,2,PE,PE,19.086,Sálvio Spínola,0,0,Domingo
+3037,34,2009-11-04,21:50,Gremio,Sao Paulo,,,,,-, Olímpico,1,1,RS,SP,13.982,Jailson Macedo Freitas,0,3,Quarta-feira
+3038,34,2009-11-07,18:30,Vitoria,Avai,,,,,Avai, Barradão,0,1,BA,SC,9.782,Felipe Gomes da Silva,0,0,Sábado
+3039,34,2009-11-07,18:30,Sport,Cruzeiro,,,,,Cruzeiro,Ilha do Retiro,2,3,PE,MG,11.458,Paulo Henrique Bezerra,2,0,Sábado
+3040,34,2009-11-07,18:30,Santos,Nautico,,,,,Santos, Pacaembu,3,1,SP,PE,16.634,Wagner Tardelli,0,0,Sábado
+3041,34,2009-11-08,16:00,Fluminense,Palmeiras,,,,,Fluminense, Maracanã,1,0,RJ,SP,64.194,Carlos Eugenio Simon,0,0,Domingo
+3042,34,2009-11-08,16:00,Atletico-MG,Flamengo,,,,,Flamengo, Mineirão,1,3,MG,RJ,63.285,Leonardo Gaciba,0,0,Domingo
+3043,34,2009-11-08,16:00,Corinthians,Santo Andre,,,,,Corinthians, Pacaembu,2,0,SP,SP,17.300,Paulo César Oliveira,0,0,Domingo
+3044,34,2009-11-08,18:30,Barueri,Internacional,,,,,-,Arena Barueri,1,1,SP,RS,2.789,Marcelo de Lima Henrique,0,0,Domingo
+3045,34,2009-11-08,18:30,Botafogo-RJ,Coritiba,,,,,Botafogo-RJ,Engenhão,2,0,RJ,PR,12.426,Wilton Pereira Sampaio,0,0,Domingo
+3046,34,2009-11-08,18:30,Athletico-PR,Goias,,,,,Athletico-PR, Arena da Baixada,2,0,PR,GO,15.591,Sálvio Spínola,0,1,Domingo
+3047,35,2009-11-11,21:50,Palmeiras,Sport,,,,,-,Palestra Itália,2,2,SP,PE,17.133,Elmo Alves Resende,0,1,Quarta-feira
+3048,35,2009-11-14,19:30,Cruzeiro,Gremio,,,,,-, Mineirão,1,1,MG,RS,51.534,Marcelo de Lima Henrique,0,2,Sábado
+3049,35,2009-11-14,19:30,Sao Paulo,Vitoria,,,,,Sao Paulo, Morumbi,2,0,SP,BA,53.204,Leandro Vuaden,0,0,Sábado
+3050,35,2009-11-14,19:30,Coritiba,Atletico-MG,,,,,Coritiba, Couto Pereira,2,1,PR,MG,17.825,Paulo César Oliveira,0,1,Sábado
+3051,35,2009-11-15,17:00,Nautico,Flamengo,,,,,Flamengo,Aflitos,0,2,PE,RJ,19.798,Sandro Meira Ricci,0,0,Domingo
+3052,35,2009-11-15,17:00,Avai,Corinthians,,,,,Avai,  Ressacada,3,1,SC,SP,15.348,Francisco de Assis Almeida,0,1,Domingo
+3053,35,2009-11-15,17:00,Barueri,Botafogo-RJ,,,,,Barueri,Arena Barueri,3,0,SP,RJ,3.432,Jailson Macedo Freitas,0,0,Domingo
+3054,35,2009-11-15,19:30,Fluminense,Athletico-PR,,,,,Fluminense, Maracanã,2,1,RJ,PR,52.511,Sálvio Spínola,0,0,Domingo
+3055,35,2009-11-15,19:30,Goias,Santo Andre,,,,,Goias, Serra Dourada,3,1,GO,SP,1.819,Péricles Bassols Cortez,0,1,Domingo
+3056,35,2009-11-15,19:30,Internacional,Santos,,,,,Internacional, Beira Rio,3,1,RS,SP,15.158,Arilson Bispo da Anunciação,0,0,Domingo
+3057,36,2009-11-18,21:50,Gremio,Palmeiras,,,,,Gremio, Olímpico,2,0,RS,SP,12.233,Heber Roberto Lopes,0,2,Quarta-feira
+3058,36,2009-11-21,19:30,Corinthians,Nautico,,,,,Nautico, Pacaembu,2,3,SP,PE,14.124,Alicio Pena Júnior,0,1,Sábado
+3059,36,2009-11-21,19:30,Athletico-PR,Cruzeiro,,,,,-, Arena da Baixada,1,1,PR,MG,17.686,Paulo César Oliveira,0,1,Sábado
+3060,36,2009-11-22,17:00,Botafogo-RJ,Sao Paulo,,,,,Botafogo-RJ,Engenhão,3,2,RJ,SP,26.513,Sandro Meira Ricci,3,1,Domingo
+3061,36,2009-11-22,17:00,Sport,Fluminense,,,,,Fluminense,Ilha do Retiro,0,3,PE,RJ,9.362,Wilson Luiz Seneme,2,0,Domingo
+3062,36,2009-11-22,17:00,Santo Andre,Avai,,,,,Santo Andre,Bruno José Daniel,4,2,SP,SC,3.167,Djalma José Beltrami,0,0,Domingo
+3063,36,2009-11-22,17:00,Santos,Coritiba,,,,,Santos, Vila Belmiro,4,0,SP,PR,3.942,Ricardo Marques Ribeiro,0,0,Domingo
+3064,36,2009-11-22,19:30,Vitoria,Barueri,,,,,Vitoria, Barradão,2,1,BA,SP,17.012,Gutemberg de Paula Fonseca,0,1,Domingo
+3065,36,2009-11-22,19:30,Atletico-MG,Internacional,,,,,Internacional, Mineirão,0,1,MG,RS,41.842,Cléber Wellington Abade,0,0,Domingo
+3066,36,2009-11-22,19:30,Flamengo,Goias,,,,,-, Maracanã,0,0,RJ,GO,78.639,Leandro Vuaden,0,0,Domingo
+3067,37,2009-11-29,17:00,Goias,Sao Paulo,,,,,Goias, Serra Dourada,4,2,GO,SP,28.574,Heber Roberto Lopes,0,0,Domingo
+3068,37,2009-11-29,17:00,Corinthians,Flamengo,,,,,Flamengo, Brinco de Ouro,0,2,SP,RJ,25.775,Evandro Roman,1,0,Domingo
+3069,37,2009-11-29,17:00,Palmeiras,Atletico-MG,,,,,Palmeiras,Palestra Itália,3,1,SP,MG,25.402,Sandro Meira Ricci,0,1,Domingo
+3070,37,2009-11-29,17:00,Sport,Internacional,,,,,Internacional,Ilha do Retiro,1,2,PE,RS,4.099,Paulo César Oliveira,0,0,Domingo
+3071,37,2009-11-29,17:00,Gremio,Barueri,,,,,Gremio, Olímpico,4,2,RS,SP,12.896,Péricles Bassols Cortez,0,0,Domingo
+3072,37,2009-11-29,17:00,Avai,Santos,,,,,-,  Ressacada,2,2,SC,SP,8.761,Leonardo Gaciba,0,1,Domingo
+3073,37,2009-11-29,17:00,Cruzeiro,Coritiba,,,,,Cruzeiro, Mineirão,4,1,MG,PR,27.291,Sálvio Spínola Fagundes Filho,0,0,Domingo
+3074,37,2009-11-29,17:00,Santo Andre,Nautico,,,,,Santo Andre,Bruno José Daniel,5,3,SP,PE,1.178,Leandro Vuaden,0,0,Domingo
+3075,37,2009-11-29,17:00,Athletico-PR,Botafogo-RJ,,,,,Athletico-PR, Arena da Baixada,2,0,PR,RJ,21.592,Wilson Luiz Seneme,0,0,Domingo
+3076,37,2009-11-29,17:00,Fluminense,Vitoria,,,,,Fluminense, Maracanã,4,0,RJ,BA,52.408,Ricardo Marques Ribeiro,1,2,Domingo
+3077,38,2009-12-05,19:30,Atletico-MG,Corinthians,,,,,Corinthians, Mineirão,0,3,MG,SP,5.769,Wagner Tardelli,0,0,Sábado
+3078,38,2009-12-05,19:30,Nautico,Avai,,,,,Avai,Aflitos,0,1,PE,SC,2.830,João Alberto Gomes Duarte,0,0,Sábado
+3079,38,2009-12-06,17:00,Flamengo,Gremio,,,,,Flamengo, Maracanã,2,1,RJ,RS,78.639,Heber Roberto Lopes,0,0,Domingo
+3080,38,2009-12-06,17:00,Botafogo-RJ,Palmeiras,,,,,Botafogo-RJ,Engenhão,2,1,RJ,SP,38.717,Leonardo Gaciba,0,0,Domingo
+3081,38,2009-12-06,17:00,Sao Paulo,Sport,,,,,Sao Paulo, Morumbi,4,0,SP,PE,30.397,Sandro Meira Ricci,1,2,Domingo
+3082,38,2009-12-06,17:00,Internacional,Santo Andre,,,,,Internacional, Beira Rio,4,1,RS,SP,....,Jailson Macedo Freitas,0,0,Domingo
+3083,38,2009-12-06,17:00,Santos,Cruzeiro,,,,,Cruzeiro, Vila Belmiro,1,2,SP,MG,6.942,Marcelo de Lima Henrique,0,1,Domingo
+3084,38,2009-12-06,17:00,Barueri,Athletico-PR,,,,,-,  Prudentão,0,0,SP,PR,1.741,Ricardo Marques Ribeiro,0,0,Domingo
+3085,38,2009-12-06,17:00,Vitoria,Goias,,,,,-, Barradão,2,2,BA,GO,7.974,Sálvio Spínola Fagundes Filho,0,0,Domingo
+3086,38,2009-12-06,17:00,Coritiba,Fluminense,,,,,-, Couto Pereira,1,1,PR,RJ,....,Leandro Vuaden,0,0,Domingo
