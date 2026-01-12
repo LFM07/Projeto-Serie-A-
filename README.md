@@ -16,13 +16,13 @@ Os dados originais consistem em registros de partidas com informações de placa
 - **Jupyter Notebook:** Ambiente de desenvolvimento e documentação.
 
 ## 🚀 Como usar
-1. Clone este repositório: `git clone https://github.com/LFM07/brasileirao-2009-analysis.git`
+1. Clone este repositório: `git clone https://github.com/LFM07/Projeto-Serie-A-.git`
 2. Instale as dependências: `pip install pandas matplotlib seaborn`
 3. Execute os notebooks na ordem numérica:
-   - `01_Limpeza.ipynb`: Tratamento inicial e remoção de ruídos.
-   - `02_Processamento.ipynb`: Criação da tabela mestre e cálculos esportivos.
-   - `03_Analise_Visual.ipynb`: Geração de gráficos e insights de engajamento.
-   - `04_Conclusoes.ipynb`: Resumo executivo dos resultados.
+   - `01_limpeza_e_tratamento.ipynb`: Tratamento inicial e remoção de ruídos.
+   - `02_tabela_e_desempenho_esportivo.ipynb`: Criação da tabela mestre e cálculos esportivos.
+   - `03_analise_de_engajamento_e_graficos.ipynb`: Geração de gráficos e insights de engajamento.
+   - `04_conclusoes_e_apresentacao_final.ipynb`: Resumo executivo dos resultados.
 
 ## 🧠 Resultados e Insights
 - **O Fator Torcida:** Identificamos que o Flamengo e o Atlético-MG possuíam as maiores taxas de "Fidelidade Proporcional", mantendo estádios lotados independentemente da oscilação na tabela.
@@ -41,4 +41,4 @@ Os dados originais consistem em registros de partidas com informações de placa
 
 Essas colunas foram adicionadas manualmente e representam um esforço de enriquecimento da base de dados, tornando as futuras análises mais completas e realistas. O processo envolveu coleta, padronização e integração das informações no arquivo CSV principal do projeto.
 
-Durante a fase de coleta e limpeza, identifiquei 2 partidas (ID X e ID Y) cujos dados de público não estavam disponíveis em fontes públicas e oficiais. Para manter a integridade estatística, esses valores foram tratados como 0 (ou excluídos das médias de público) para não enviesar a análise dos clubes envolvidos.
+Durante a fase de coleta e limpeza, identifiquei 2 partidas (ID 3082 e ID 3086) cujos dados de público não estavam disponíveis em fontes públicas e oficiais. Para manter a integridade estatística, esses valores foram tratados como 0 (ou excluídos das médias de público) para não enviesar a análise dos clubes envolvidos.
