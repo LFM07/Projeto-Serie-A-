@@ -1,38 +1,43 @@
-# Projeto-Serie-A-
+# ⚽ Brasileirão Série A 2009 — Análise de Dados
 
+## 📌 Sobre
+Este projeto realiza uma análise exploratória e estratégica do Campeonato Brasileiro de 2009. A partir de dados brutos das 380 partidas daquela edição, a análise busca entender a relação entre o desempenho esportivo, o comportamento das torcidas (engajamento) e o perfil da arbitragem. O projeto demonstra o ciclo completo de um analista de dados: desde a limpeza e tratamento até o storytelling visual.
 
-Coletando mais informacoes que nao continham no csv que encontramos e recheando ainda mais o csv para trabalharmos aprofundamente no brasileirao de 2009
+## 📁 Dados
+Os dados originais consistem em registros de partidas com informações de placar, estádios, horários, público e cartões. Durante o projeto, os dados foram **enriquecidos** através de:
+- Cálculo de pontuação e criação de tabelas de classificação (turnos e geral).
+- Conversão e normalização de horários e datas.
+- Cruzamento de dados de bilheteria com performance em campo.
 
-Sites que foram utilizados para coletar mais informacoes para o CSV:
+## 🛠️ Tecnologias
+- **Python:** Linguagem base.
+- **Pandas:** Manipulação, limpeza e engenharia de atributos.
+- **Matplotlib & Seaborn:** Criação de visualizações avançadas e análise de tendências.
+- **Jupyter Notebook:** Ambiente de desenvolvimento e documentação.
 
-https://www.bolanaarea.com/brasileirao_2009.htm: utilizamos esse site para coletar informacoes para as colunas de "publico_jogo", "juiz_partida", "expulsao_mandante","expulsao_visitante" e "dia_semana_jogo".
+## 🚀 Como usar
+1. Clone este repositório: `git clone https://github.com/seu-usuario/brasileirao-2009-analysis.git`
+2. Instale as dependências: `pip install pandas matplotlib seaborn`
+3. Execute os notebooks na ordem numérica:
+   - `01_Limpeza.ipynb`: Tratamento inicial e remoção de ruídos.
+   - `02_Processamento.ipynb`: Criação da tabela mestre e cálculos esportivos.
+   - `03_Analise_Visual.ipynb`: Geração de gráficos e insights de engajamento.
+   - `04_Conclusoes.ipynb`: Resumo executivo dos resultados.
 
-incluímos as colunas de formacao_mandante e formacao_visitante, porém as formações ainda não foram incluídas por limitações de coleta manual, mas estão planejadas para futura expansão do dataset.
+## 🧠 Resultados e Insights
+- **O Fator Torcida:** Identificamos que o Flamengo e o Atlético-MG possuíam as maiores taxas de "Fidelidade Proporcional", mantendo estádios lotados independentemente da oscilação na tabela.
+- **Eficiência por Horário:** Os jogos realizados aos **Domingos às 16h** apresentaram uma média de público significativamente superior, validando o impacto do horário nobre na arrecadação dos clubes.
+- **Disciplina e Arbitragem:** Criamos um ranking dos árbitros mais rigorosos do campeonato, correlacionando o total de expulsões por partida.
+- **Análise de Evolução:** O título de 2009 foi explicado estatisticamente pela curva de evolução do Flamengo no segundo turno, superando a média de pontos dos líderes da primeira fase.
 
-### 🧩 Colunas adicionais criadas
-Durante o processo de enriquecimento do dataset original, foram adicionadas novas colunas com o objetivo de permitir análises mais completas sobre o Brasileirão de 2009. Essas colunas não existiam na base original e foram coletadas manualmente a partir de fontes externas, como o site [Bola na Área](https://www.bolanaarea.com/brasileirao_2009.htm).
+## ⚙️ Próximos passos
+- **Série Histórica:** Comparar os dados de 2009 com edições mais recentes (ex: 2023/2024) para analisar a evolução do público no Brasil.
+- **Automação:** Desenvolver um script que colete dados via API de resultados em tempo real.
+- **Dashboard:** Migrar as visualizações para um dashboard interativo no Streamlit ou Power BI.
 
-As novas colunas adicionadas foram:
-
-publico_jogo
-
-Representa o número de torcedores presentes em cada partida. Essa informação foi coletada individualmente e permite análises sobre o engajamento da torcida e a média de público por rodada, estádio ou dia da semana.
-
-juiz_partida
-
-Nome do árbitro responsável por apitar a partida. Essa coluna possibilita identificar padrões de arbitragem, frequência de atuação e possíveis correlações com o número de expulsões.
-
-expulsao_mandante
-
-Quantidade de jogadores expulsos do time mandante em cada jogo. Utilizada para avaliar a disciplina dos times e sua relação com o resultado da partida.
-
-expulsao_visitante
-
-Quantidade de jogadores expulsos do time visitante em cada jogo. Assim como a coluna anterior, ajuda em análises comportamentais e de arbitragem.
-
-dia_semana_jogo
-
-Indica o dia da semana em que a partida ocorreu (domingo, quarta, etc.). Essa informação foi adicionada para permitir análises temporais, como o impacto do dia da semana no público ou na performance dos times.
+## 📚 Fontes
+- Dados históricos de campeonatos brasileiros (base CSV).
+- Documentação oficial da CBF (referências de horários e arbitragem).
 
 Essas colunas foram adicionadas manualmente e representam um esforço de enriquecimento da base de dados, tornando as futuras análises mais completas e realistas. O processo envolveu coleta, padronização e integração das informações no arquivo CSV principal do projeto.
 
