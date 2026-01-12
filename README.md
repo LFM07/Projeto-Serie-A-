@@ -35,3 +35,5 @@ dia_semana_jogo
 Indica o dia da semana em que a partida ocorreu (domingo, quarta, etc.). Essa informação foi adicionada para permitir análises temporais, como o impacto do dia da semana no público ou na performance dos times.
 
 Essas colunas foram adicionadas manualmente e representam um esforço de enriquecimento da base de dados, tornando as futuras análises mais completas e realistas. O processo envolveu coleta, padronização e integração das informações no arquivo CSV principal do projeto.
+
+Durante a fase de coleta e limpeza, identifiquei 2 partidas (ID X e ID Y) cujos dados de público não estavam disponíveis em fontes públicas e oficiais. Para manter a integridade estatística, esses valores foram tratados como 0 (ou excluídos das médias de público) para não enviesar a análise dos clubes envolvidos.
