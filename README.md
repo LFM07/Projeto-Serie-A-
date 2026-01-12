@@ -16,7 +16,7 @@ Os dados originais consistem em registros de partidas com informações de placa
 - **Jupyter Notebook:** Ambiente de desenvolvimento e documentação.
 
 ## 🚀 Como usar
-1. Clone este repositório: `git clone https://github.com/seu-usuario/brasileirao-2009-analysis.git`
+1. Clone este repositório: `git clone https://github.com/LFM07/brasileirao-2009-analysis.git`
 2. Instale as dependências: `pip install pandas matplotlib seaborn`
 3. Execute os notebooks na ordem numérica:
    - `01_Limpeza.ipynb`: Tratamento inicial e remoção de ruídos.
